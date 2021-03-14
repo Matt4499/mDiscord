@@ -1,0 +1,8 @@
+author: Matt4499
+main: me.Matt4499.mDiscord.Main
+api-version: 1.16
+name: mDiscord
+version: 0.1
+description: This is our custom coded plugin
+website: mNetwork.dev
+depends: [JDASpigot]
